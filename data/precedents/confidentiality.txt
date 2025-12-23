@@ -1,0 +1,2 @@
+Confidentiality terms are valid when information is clearly defined.
+Exceptions should be included for public information.

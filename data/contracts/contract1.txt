@@ -1,0 +1,20 @@
+
+PARTIES: This Services Agreement is between Contoso Ltd. (“Client”) and Fabrikam Services Pvt. Ltd. (“Supplier”).
+
+TERM: The initial term is twelve (12) months starting on January 1, 2026.
+
+TERMINATION: Either party may terminate this Agreement for convenience upon thirty (30) days’ prior written notice. Termination does not relieve either party of obligations that expressly survive termination.
+
+INDEMNITY: The Supplier shall indemnify, defend, and hold harmless the Client from losses, damages, liabilities, and reasonable attorneys’ fees arising out of Supplier’s breach of this Agreement or third‑party claims caused by Supplier’s acts or omissions; indemnity does not extend to Client’s intentional misconduct.
+
+CONFIDENTIALITY: All non‑public information disclosed under this Agreement is confidential. Each party shall protect confidential information using at least the same degree of care used for its own information and shall not disclose it to third parties without prior written consent, except for information that is publicly available or required to be disclosed by court order.
+
+GOVERNING LAW: This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law principles.
+
+PAYMENT TERMS: Supplier shall invoice monthly. Client will pay all undisputed invoices within forty‑five (45) days of receipt. Overdue amounts may accrue interest at 1.5% per month, subject to applicable usury laws.
+
+SERVICE LEVELS: Supplier will provide 99.9% monthly uptime for the hosted services and respond to Severity‑1 incidents within two (2) hours.
+
+DATA PROTECTION: Supplier shall implement appropriate technical and organizational measures to protect Client Data against unauthorized access, loss, or disclosure.
+
+ASSIGNMENT: Neither party may assign this Agreement without prior written consent, except to an affiliate or in connection with a merger or sale of substantially all assets.
